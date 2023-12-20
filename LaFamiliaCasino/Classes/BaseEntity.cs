@@ -20,7 +20,7 @@
             this.Money = money;
             this.Name = name;
         }
-        public abstract void Stats();
+        public abstract string Stats();
     }
 }
 

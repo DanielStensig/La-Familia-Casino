@@ -5,31 +5,26 @@
         private static Random random = new Random();
         public static void Roulette(out string ball)
         {
-            int nr;
+            int nr = random.Next(1, 40);
             string green; string black; string red;
             black = "black";
             red = "red";
             green = "green";
 
-            nr = random.Next(1, 60);
             if (nr % 2 == 0) 
             {
                 ball = black;
-                Console.WriteLine(ball);
-            }
-            else if (nr % 3 == 0)
-            {
-                ball = red;
-                Console.WriteLine(ball);
+                Console.WriteLine($"The ball was {ball}, nr was {nr}");
             }
             else if (nr == 1)
             {
                 ball = green;
-                Console.WriteLine(ball);
+                Console.WriteLine($"The ball was {ball}, nr was {nr}");
             }
             else
             {
-                ball = "None";
+                ball = red;
+                Console.WriteLine($"The ball was {ball}, nr was {nr}");
             }
 
         }

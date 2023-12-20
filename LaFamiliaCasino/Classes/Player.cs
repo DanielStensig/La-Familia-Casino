@@ -3,12 +3,10 @@
     public class Player : BaseEntity
     {
         public Player(int money, string name) : base(money, name) { }
-        
-        public override void Stats()
+
+        public override string Stats()
         {
-            Console.WriteLine($"{Name} has {Money} dollars to spend!");
-            Console.ReadKey();
+            return $"Player name: {Name}\nBalance: {Money}$";
         }
     }
 }
-
