@@ -1,10 +1,13 @@
 ﻿namespace LaFamiliaCasino
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            Player player = new Player(1000, "Daniel");
+            player.Stats();
+            Games newgame = new Games();
+            newgame.Roulette(ball);
         }
     }
 }
