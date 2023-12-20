@@ -1,0 +1,14 @@
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\bin\Debug\net7.0\LaFamiliaCasino.exe
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\bin\Debug\net7.0\LaFamiliaCasino.deps.json
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\bin\Debug\net7.0\LaFamiliaCasino.runtimeconfig.json
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\bin\Debug\net7.0\LaFamiliaCasino.dll
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\bin\Debug\net7.0\LaFamiliaCasino.pdb
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\LaFamiliaCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\LaFamiliaCasino.AssemblyInfoInputs.cache
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\LaFamiliaCasino.AssemblyInfo.cs
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\LaFamiliaCasino.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\LaFamiliaCasino.dll
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\refint\LaFamiliaCasino.dll
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\LaFamiliaCasino.pdb
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\LaFamiliaCasino.genruntimeconfig.cache
+C:\Users\daniel\Source\Repos\La-Familia-Casino\LaFamiliaCasino\obj\Debug\net7.0\ref\LaFamiliaCasino.dll
